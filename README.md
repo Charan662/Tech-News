@@ -8,7 +8,7 @@ Get the latest tech news in one place with Grishma Tech News! This site curates 
 - **Struggling to find** in-depth coverage of the topics that matter to you?
 - **Juggling multiple websites** to stay informed?
 
-## With CHARAN TECH NEWS, you get:
+## With ABHI CHARAN TECH NEWS, you get:
 
 - **Curated Content**: We hand-pick the best tech stories, saving you precious time.
 
@@ -48,4 +48,4 @@ Get the latest tech news in one place with Grishma Tech News! This site curates 
 
 Thank you!
 
-Developed by: Abhi Charan Reddy (Abhi Charan, Tech News)
+Developed by: Abhi Charan Reddy (ABHI CHARAN, Tech News)
