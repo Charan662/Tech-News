@@ -1,6 +1,6 @@
 # Tech-News
 
-Get the latest tech news in one place with Grishma Tech News! This site curates top stories directly, keeping tech enthusiasts updated without the need to search multiple websites.
+Get the latest tech news in one place with Abhi Charan Tech News! This site curates top stories directly, keeping tech enthusiasts updated without the need to search multiple websites.
 
 ## Tired of:
 
